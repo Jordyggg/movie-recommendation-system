@@ -1,0 +1,65 @@
+# 🎬 Movie Recommendation System
+
+Collaborative filtering recommendation system using matrix factorization.
+
+## 🎯 Objective
+
+Build a machine learning solution to solve real-world problems using state-of-the-art algorithms and techniques.
+
+## 🛠️ Technologies
+
+- Python
+- Surprise
+- Pandas
+- NumPy
+
+## 📈 Performance
+
+- **Metric**: RMSE: 0.87
+- **Dataset**: MovieLens 1M dataset
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the main script
+python main.py
+
+# For Jupyter notebook
+jupyter notebook analysis.ipynb
+```
+
+## 📁 Project Structure
+
+```
+movie-recommendation-system/
+├── data/              # Dataset files
+├── models/            # Trained models
+├── notebooks/         # Jupyter notebooks
+├── src/              # Source code
+├── main.py           # Main script
+├── requirements.txt  # Dependencies
+└── README.md         # This file
+```
+
+## 📊 Results
+
+Detailed analysis and results can be found in the Jupyter notebook.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## 📝 License
+
+MIT License
+
+## 👤 Author
+
+Data Science Portfolio Project
+
+---
+
+⭐ Star this repo if you find it helpful!
